@@ -1,0 +1,20 @@
+		Welcome to registration page
+
+	Enter Following details to register the page
+
+Name:
+
+College:
+
+Branch:
+
+Year:
+
+Student mobile number:
+
+current living place:
+
+Name of course :
+
+
+
