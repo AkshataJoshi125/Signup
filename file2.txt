@@ -1,6 +1,7 @@
 		Login Page
 
-	login Id:-
-	password:-
+	login Id:-Vaishnavi
+	password:-vaish@12
+
 	   welcome to linkcode technologies
 	
